@@ -6,7 +6,7 @@ const kTempTextStyle = TextStyle(
 );
 
 const kButtonTextStyle = TextStyle(
-  fontSize: 20,
+  fontSize: 25.0,
   fontFamily: 'Spartan MB',
 );
 
