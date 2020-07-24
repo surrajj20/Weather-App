@@ -15,7 +15,7 @@ class _CityScreenState extends State<CityScreen> {
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('images/city_background.jpg'),
+            image: AssetImage('images/city.jpg'),
             fit: BoxFit.cover,
           ),
         ),
@@ -28,6 +28,7 @@ class _CityScreenState extends State<CityScreen> {
                 child: FlatButton(
                   onPressed: () {
                     //city
+                    Navigator.pop(context);
                   },
                   child: Icon(
                     Icons.arrow_back_ios,

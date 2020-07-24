@@ -28,8 +28,8 @@ flutter:
   uses-material-design: true
 
   assets:
-     - images/city_background.jpg
-     - images/location_background.jpg
+     - images/city.jpg
+     - images/location.jpg
 
   fonts:
     - family: Spartan MB
