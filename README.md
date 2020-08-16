@@ -11,7 +11,7 @@
 A new Flutter application.
 
 ## App Demo
-![App Demo](images/recording/app-demo.mp4)
+![App Demo](images/recording/app-demo.gif)
 
 
 ### Apk
